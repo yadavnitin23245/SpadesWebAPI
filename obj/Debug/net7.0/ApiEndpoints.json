@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "ContactApi.Controllers.ContactController",
+    "Method": "Create",
+    "RelativePath": "api/Contact/contact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contact",
+        "Type": "ContactApi.Models.Contact",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactApi.Controllers.ContactController",
+    "Method": "SaveContactMessage",
+    "RelativePath": "api/Contact/SaveContactMessage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactMessge",
+        "Type": "ContactApi.Models.ContactMessge",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
