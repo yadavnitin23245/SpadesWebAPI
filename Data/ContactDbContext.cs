@@ -14,6 +14,8 @@ namespace ContactApi.Data
 
         public DbSet<ContactMessge> ContactMessge { get; set; }
         public DbSet<ReposneMessage> ReposneMessage { get; set; }
+        public DbSet<Applications> Applications { get; set; }
         
+
     }
 }

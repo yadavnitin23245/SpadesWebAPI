@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SpadezWebSite\\SpadezAPI\\SpadesWebAPI\\wwwroot\\uploads\\test.docx",
+      "PackagePath": "staticwebassets\\uploads\\test.docx"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ContactApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ContactApi.props",
+      "PackagePath": "build\\ContactApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ContactApi.props",
+      "PackagePath": "buildMultiTargeting\\ContactApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ContactApi.props",
+      "PackagePath": "buildTransitive\\ContactApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

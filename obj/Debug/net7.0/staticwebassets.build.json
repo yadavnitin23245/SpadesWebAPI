@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "A75cQzLb2q4eFeDVEmeEbpI0037hB5rxFyRIg4xs4FY=",
+  "Hash": "1jsMuw1JGyy70XwETXnN1uLj393JfXB18UwN1elODWM=",
   "Source": "ContactApi",
   "BasePath": "_content/ContactApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "ContactApi\\wwwroot",
+      "Source": "ContactApi",
+      "ContentRoot": "D:\\SpadezWebSite\\SpadezAPI\\SpadesWebAPI\\wwwroot\\",
+      "BasePath": "_content/ContactApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\SpadezWebSite\\SpadezAPI\\SpadesWebAPI\\wwwroot\\uploads\\test.docx",
+      "SourceId": "ContactApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SpadezWebSite\\SpadezAPI\\SpadesWebAPI\\wwwroot\\",
+      "BasePath": "_content/ContactApi",
+      "RelativePath": "uploads/test.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\test.docx"
+    }
+  ]
 }

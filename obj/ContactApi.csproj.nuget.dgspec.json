@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SpadezWebSite\\project-bolt-sb1-hp8souap\\project\\api\\SpadezWebAPI\\ContactApi.csproj": {}
+    "D:\\SpadezWebSite\\SpadezAPI\\SpadesWebAPI\\ContactApi.csproj": {}
   },
   "projects": {
-    "D:\\SpadezWebSite\\project-bolt-sb1-hp8souap\\project\\api\\SpadezWebAPI\\ContactApi.csproj": {
+    "D:\\SpadezWebSite\\SpadezAPI\\SpadesWebAPI\\ContactApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SpadezWebSite\\project-bolt-sb1-hp8souap\\project\\api\\SpadezWebAPI\\ContactApi.csproj",
+        "projectUniqueName": "D:\\SpadezWebSite\\SpadezAPI\\SpadesWebAPI\\ContactApi.csproj",
         "projectName": "ContactApi",
-        "projectPath": "D:\\SpadezWebSite\\project-bolt-sb1-hp8souap\\project\\api\\SpadezWebAPI\\ContactApi.csproj",
+        "projectPath": "D:\\SpadezWebSite\\SpadezAPI\\SpadesWebAPI\\ContactApi.csproj",
         "packagesPath": "C:\\Users\\Pankaj Sadiyal\\.nuget\\packages\\",
-        "outputPath": "D:\\SpadezWebSite\\project-bolt-sb1-hp8souap\\project\\api\\SpadezWebAPI\\obj\\",
+        "outputPath": "D:\\SpadezWebSite\\SpadezAPI\\SpadesWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pankaj Sadiyal\\AppData\\Roaming\\NuGet\\NuGet.Config",
