@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7oYVVmZLObo=",
+  "dgSpecHash": "rOQh7cUNkoM=",
   "success": true,
-  "projectFilePath": "D:\\SpadezWebSite\\project-bolt-sb1-hp8souap\\project\\api\\SpadezWebAPI\\ContactApi.csproj",
+  "projectFilePath": "D:\\SpadezWebSite\\SpadezAPI\\SpadesWebAPI\\ContactApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pankaj Sadiyal\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Pankaj Sadiyal\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
